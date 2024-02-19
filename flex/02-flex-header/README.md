@@ -8,7 +8,7 @@ narrow:
 ![narrow](./desired-outcome-narrow.png)
 
 wide: 
-![wide](./desired-outcome-wide.png)
+![wide](./desired-outcom-wide.png)
 
 ### Self Check
 - There is space between all items and the edge of the header (specific px amount doesn't matter here).
